@@ -8,4 +8,5 @@ Statements:
 
 Teacher: Ana Lúcia de Moura
 
-Students: [Jordana Mecler](https://github.com/jordanamecler) and [Leonardo Wajnsztok](https://github.com/leotok)
+# Members of the Team
+[Jordana Mecler](https://github.com/jordanamecler) and [Leonardo Wajnsztok](https://github.com/leotok)
