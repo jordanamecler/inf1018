@@ -7,4 +7,4 @@ Enunciados:
 - Trabalho 2: http://www.inf.puc-rio.br/~inf1018/2014.2/trabs/t2/trab2.html
 
 Professora: Ana Lúcia de Moura
-Alunos: Jordana Mecler e Leonardo E. Wajnsztok
+Alunos: [Jordana Mecler](https://github.com/jordanamecler) and [Leonardo Wajnsztok](https://github.com/leotok) composes our group.
