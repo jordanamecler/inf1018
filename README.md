@@ -1,5 +1,5 @@
 # INF1018
-Projects 1 and 2 from the subject Software Básico (Basic Software) of code INF1018 offered by PUC-Rio. 
+Projects 1 and 2 for the subject Software Básico (Basic Software) of code INF1018 offered by PUC-Rio. 
 
 Statements:
 
